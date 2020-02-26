@@ -11,3 +11,6 @@ LeetCode, GeeksforGeeks
 - 323, Number of Connected Components in an Undirected Graph, medium
 - 444, Sequence Reconstruction, medium
 
+### supplement
+
+How to use a 7 sides dice to simulate a 5 sides dice? and how to do that reverse?
