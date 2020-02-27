@@ -3,7 +3,7 @@ LeetCode, GeeksforGeeks
 
 ## First week —— Graph
 
-- 133, Clone Graph, medium
+- 133, Clone Graph, medium --- similar to #138
 - 207, Course Schedule, medium
 - 210	 Course Schedule II, medium
 - 261, Graph Valid Tree, medium
